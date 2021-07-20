@@ -1,0 +1,1 @@
+(()=>{"use strict";window.alert("Method in Module 1 and Method in Module 2")})();
