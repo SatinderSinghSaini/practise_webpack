@@ -1,5 +1,7 @@
 Install webpack: npm install webpack -g
+
 Install webpack-cli: npm install webpack-cli -g
+
 Install lite-server: npm install lite-server -g
 
 I learned fundamentals of webpack.
